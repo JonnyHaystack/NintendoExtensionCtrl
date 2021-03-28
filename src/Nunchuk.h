@@ -23,7 +23,7 @@
 #ifndef NXC_Nunchuk_h
 #define NXC_Nunchuk_h
 
-#include "internal/ExtensionController.h"
+#include "ExtensionController.h"
 
 namespace NintendoExtensionCtrl {
 	class Nunchuk_Shared : public ExtensionController {
